@@ -9,6 +9,4 @@ license 'Perl';
 requires 'Data::Alias';
 build_requires 'ok';
 
-
-
 WriteAll();
