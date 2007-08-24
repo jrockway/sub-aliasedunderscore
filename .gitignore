@@ -1,5 +1,4 @@
 META.yml
-MANIFEST.SKIP
 MANIFEST.BAK
 inc
 blib
@@ -8,3 +7,4 @@ Makefile
 Makefile.old
 pm_to_blib
 NINJA
+MANIFEST
