@@ -66,7 +66,7 @@ It makes C<$_> DWIM.
 sub transform($) {
     my $sub = shift;
     return sub {
-		local *_ = \$_[0];
+        local *_ = \$_[0];
         $sub->();
     }
 }
