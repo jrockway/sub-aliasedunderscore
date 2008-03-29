@@ -6,7 +6,6 @@ name 'Sub-AliasedUnderscore';
 all_from 'lib/Sub/AliasedUnderscore.pm';
 license 'Perl';
 
-requires 'Data::Alias';
 build_requires 'ok';
 
 WriteAll();
