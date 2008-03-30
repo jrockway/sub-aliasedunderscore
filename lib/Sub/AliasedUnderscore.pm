@@ -2,7 +2,7 @@ package Sub::AliasedUnderscore;
 use strict;
 use warnings;
 
-our $VERSION = 0.01; # first and last, I hope
+our $VERSION = 0.02;
 
 use base 'Exporter';
 
